@@ -1,2 +1,6 @@
+github.com/ineant/funtemps v0.0.0-20230219162140-e98619578b5a h1:tkqFvQDwQf8ui7Gs4ABTARgtye7BNyS7TqcP/7fdUnU=
+github.com/ineant/funtemps v0.0.0-20230219162140-e98619578b5a/go.mod h1:2YzetZpba2+zbyOw9m/1XZxAMWn5CNvjDrMI6tFsXrI=
 github.com/ineant/is105sem03 v0.0.0-20230421065236-6accbf6bf3e6 h1:FQiv9UADKe4C80naQRDBw/V2YmblpCblfkB4nuMb1aE=
 github.com/ineant/is105sem03 v0.0.0-20230421065236-6accbf6bf3e6/go.mod h1:GXfEtLE/mHH8hRKOBsKk0QfLVkiVmCGypRP9RZNama4=
+github.com/ineant/minyr v0.0.0-20230414093501-574ee6350d82 h1:tgkYjVbAcYpxhzBMMkWp1INifRRSLgq2UEeJZHkNeqI=
+github.com/ineant/minyr v0.0.0-20230414093501-574ee6350d82/go.mod h1:jMxtHCj4BXAXiHwRxp8VAs8bOOf8Vi7t29LMIryprNA=
